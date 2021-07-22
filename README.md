@@ -21,7 +21,7 @@ This is the repository for the g2s3-aims-2021. It contains python codes for the 
 
 
 # [Practicals for Course 4- Prof. Okoudjou](https://sites.google.com/aims.ac.za/g2s3-aims-2021/courses/course-2-prof-tanner?authuser=0)
-   All the practicals are available on [this GitHub repo](https://github.com/umdsid/GeneGolubSIAM2021#genegolubsiam2021).
+   * [Practical 1](https://github.com/umdsid/GeneGolubSIAM2021#genegolubsiam2021)
 
 
 
