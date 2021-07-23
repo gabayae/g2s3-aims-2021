@@ -17,6 +17,8 @@ This is the repository for the g2s3-aims-2021. It contains python codes for the 
 
 # [Practicals for Course 3- Prof. Cartis](https://sites.google.com/aims.ac.za/g2s3-aims-2021/courses/course-3-prof-cartis?authuser=0)
    * [Practical 1](https://colab.research.google.com/drive/1k5NB4wovWPvNcSqWJaHmuUNMQoBQ7OgL?usp=sharing)
+   * [Practical 2](https://colab.research.google.com/drive/1AnHehGCm5OWWVbP6JX-CVrgwa2sBxfkE?usp=sharing)
+
 
 
 
